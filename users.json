@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "username": "Xrelly",
+      "password": "x",
+      "role": "OWNER",
+      "createdAt": "2026-01-10T12:00:00Z"
+    }
+  ]
+}
