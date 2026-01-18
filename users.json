@@ -2,7 +2,7 @@
   "users": [
     {
       "username": "Xrelly",
-      "password": "x",
+      "password": "12345678",
       "role": "OWNER",
       "createdAt": "2026-01-10T12:00:00Z"
     }
